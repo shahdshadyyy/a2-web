@@ -215,8 +215,4 @@ curl -s "https://localhost:7288/api/courses" ^
 | Refresh tokens (bonus) | `RefreshToken` entity, `/api/auth/refresh`, rotation |
 | Hangfire (bonus) | SQL storage, dashboard, daily cleanup job |
 
----
 
-## License
-
-Provided as a sample for educational submission; adapt as needed for your course policies.
